@@ -9,4 +9,4 @@ with open("user_data.txt", "w") as file:
     file.write(f"Name: {user_name}\n")
     file.write(f"Target Role: {user_role}\n")
 
-print("✨ Data successfully ingested into user_data.txt!")
+print("✨ Data successfully ingested into user_data.txt! good")
